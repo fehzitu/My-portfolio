@@ -9,7 +9,7 @@ Here you'll find more information about me and my work.
 - JavaScript
 
 ## 🌐 Access my portfolio:
-🔗 [Click here to see my personal site](https://fehzitu.github.io/My-Portifolio/)
+🔗 [Click here to see my personal site](https://fehzitu.github.io/My-portifolio/)
 
 ---
 
