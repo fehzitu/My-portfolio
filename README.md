@@ -25,13 +25,14 @@ This project was created to showcase who I am, my skills, and some of the projec
 https://fehzitu.github.io/My-portfolio/
 
 📂 Project Structure
-
+```text
 My-portfolio/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 📌 Purpose
 
